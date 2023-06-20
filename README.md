@@ -2,6 +2,15 @@
 
 <img src="chatgpt_bac_philo_2023.png" alt="image créée par Runway, service Text2Image" title="">
 
+Légende de l'image: **un élève au Bac philo 2023** (image créée par Runway, service Text2Image)
+
+## Auteur
+
+- [Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), Consutor em IA & Senior AI Specialist (Claimfy)
+- 21 de junho de 2023
+
+## A propos
+
 <p>Ce site vient en support au post publié par [Pierre Guillou]() le mercredi 21 juin 2023 sur [medium.com/@pierre_guillou](https://medium.com/@pierre_guillou) et intitulé: "Bac philo 2023 | Apprendre à utiliser ChatGPT avant de lui donner une note".</p>
 
 <p>Vous y trouverez 4 dissertations écrites par [ChatGPT 4 de Bing Conversation](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx):</p>
