@@ -1,6 +1,6 @@
 ## Dissertation 4 de ChatGPT (Bing) à partir du prompt 6
 
-[dissertation 1](dissertation1.md) | [dissertation 2](dissertation2.md) | [dissertation 3](dissertation3.md) | dissertation 4
+[dissertation 1](dissertation1.md) | [dissertation 2](dissertation2.md) | [dissertation 3](dissertation3.md) | dissertation 4 | [Evaluation & notation](analyse.md)
 
 ## Contexte
 
