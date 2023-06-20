@@ -32,7 +32,7 @@ un style d'écriture plus fluide, qui ne soit pas systématique (par exemple, ne
 
 ## Réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
 
-La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe "Prompt". 
+La réponse de ChatGPT se trouve dans le document Word: [ChatGPT (Bing) - Dissertation de ChatGPT au Bac philo 2023](ChatGPT_Bing_dissertation_Bac_philo_2023_prompt_6.docx) et ci-dessous.
 
 ## Dissertation de ChatGPT de Bing Conversation (ChatBing)
 
