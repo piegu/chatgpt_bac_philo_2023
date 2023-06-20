@@ -22,6 +22,10 @@ Vous y trouverez 4 dissertations écrites par [ChatGPT 4 de Bing Conversation](h
 - [Dissertation 3](dissertation3.md): le prompt demande à ChatGPT de **trouver une méthode pour écrire dans un style plus humain, de la publier et d'utiliser ensuite cette méthode pour réécrire la dissertation**.
 - [Dissertation 4](dissertation4.md): l'objectif de ce prompt est de **pouvoir multiplier à présent le nombre de dissertations** en utilisant la méthode définie para ChatGPT via les prompts précédents. Pour cela, il suffit de dire à ChatGPT d'utiliser cette méthode et on peut **personnaliser la dissertation** par exemple en imposant la thèse de la dissertation en réponse à la question du sujet, en réduisant le nombre de mots, en changeant son style et en demandant à ChatGPT de faire des erreurs aléatoires... afin de rendre la copie plus humaine (gloups).
 
+##
+
+- [Evaluation & notation](analyse.md)
+
 ## Bonus
 
 J'ai posé à ChatGPT de Bing Conversation la question suivante: "**Sais-tu philosopher?**". Voici le prompt et sa réponse:
