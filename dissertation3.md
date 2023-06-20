@@ -20,7 +20,7 @@ Prompt 5 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](C
 
 La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe "Prompts". 
 
-## ChatBing
+## Dissertation de ChatGPT de Bing Conversation (ChatBing)
 
 Le bonheur est-il affaire de raison ?
 
