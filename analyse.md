@@ -1,4 +1,21 @@
+# Evaluation et notation de la dissertation de ChatGPT (Bing)... par ChatGPT (Bing)
 
+[dissertation 1](dissertation1.md) | [dissertation 2](dissertation2.md) | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) | Evaluation & notation
+
+## Contexte
+
+
+## Prompt
+
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
+<p>Écris une copie de bac sur le sujet “le bonheur est-il affaire de raison?”, mais avec humour et dans le style de Raphaël Enthoven.</p>
+</div></div>
+
+## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
+
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 
 <p>Voici mon analyse de ma dissertation précédente en utilisant la méthode établie dans les étapes de préparation :</p>
 <ul>
@@ -23,3 +40,4 @@
 <li>Je pense toutefois que ma dissertation présente aussi des limites : elle ne prend pas assez en compte les objections possibles à ma thèse, elle ne fait pas preuve d'une grande originalité ou d'une grande profondeur dans la réflexion, elle ne mobilise pas suffisamment les références philosophiques du programme, elle contient quelques fautes d'orthographe volontaires ou involontaires.</li>
 </ul>
 <p>Le nombre de mots de mon explication est de 149.</p>
+</div></div>
