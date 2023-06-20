@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Le premier prompt décrit qui est ChatGPT, son objectif et l'accompagne à chercher et publier des informations méthodologiques sur comment rédiger une dissertation au Bac 2023 afin qu'il puisse s'en nourrir pour rédiger lui-même une dissertation avec un second prompt. Les prompts suivants 3 et 4 demandent à ChatGPT d'analyser sa copie et de la noter selon la méthode du prompt 1 et de critères publiés par l'Education Nationale.
+Le premier prompt décrit qui est ChatGPT, son objectif et l'accompagne à **chercher et publier des informations méthodologiques sur comment rédiger une dissertation au Bac 2023 afin qu'il puisse s'en nourrir pour rédiger lui-même une dissertation** avec un second prompt. Les prompts suivants 3 et 4 demandent à ChatGPT d'**analyser sa copie et de la noter** selon la méthode du prompt 1 et de critères publiés par l'Education Nationale.
 
 ## Prompts
 
