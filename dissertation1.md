@@ -1,6 +1,6 @@
 # Dissertation de ChatGPT (Bing) avec un prompt d'une phrase
 
-dissertation 1 | [dissertation 2](dissertation2.md) | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) 
+dissertation 1 | [dissertation 2](dissertation2.md) | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) | [Evaluation & notation](analyse.md)
 
 ## Contexte
 
