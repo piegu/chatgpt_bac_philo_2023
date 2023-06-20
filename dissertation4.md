@@ -132,3 +132,34 @@ La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe 
 
 <p>Une question qui pourrait être liée avec un évènement heureux de l'actualité en France de l'année 2023 est : comment la victoire de l'équipe féminine française à la Coupe du monde de football a-t-elle suscité un sentiment de bonheur collectif par la sensibilité ?</p>
 </div></div>
+
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
+<p>Voici les phrases qui correspondent aux consignes aléatoires :</p>
+<p>2 sophismes : </p>
+<ul><li>"Le bonheur n'est pas une affaire de raison, mais affaire de sensibilité." (sophisme par la fausse dichotomie, qui exclut d'autres possibilités)</li>
+<li>"Le bonheur consiste à vivre selon la nature, c'est-à-dire selon les instincts et les besoins." (sophisme par l'appel à la nature, qui confond ce qui est naturel et ce qui est bon)</li>
+</ul>
+
+<p>2 paralogismes :</p>
+<ul><li>"La raison nous dit qu'il faut être logique, cohérent, consistant." (paralogisme par la pétition de principe, qui présuppose ce qu'il faut démontrer)</li>
+<li>"La raison nous dit qu'il faut reconnaître les injustices, les inégalités, les violences qui existent dans le monde." (paralogisme par l'argument d'autorité, qui invoque la raison sans justification)</li>
+</ul>
+
+<p>2 phrases avec l'humour anglais :</p>
+<ul><li>"Le bonheur n'est-il pas dans l'ignorance et dans l'illusion ?" (humour anglais par l'ironie, qui dit le contraire de ce qu'on pense)</li>
+<li>"Le bonheur n'est-il pas dans le désordre et dans le chaos ?" (humour anglais par l'absurde, qui exagère une idée jusqu'à la rendre ridicule)</li>
+</ul>
+
+<p>2 phrases avec l'humour corse :</p>
+<ul><li>"Il faut donc se libérer des conventions et des normes qui entravent notre liberté. Il faut aussi se libérer des savoirs et des valeurs qui entravent notre spontanéité. Il faut enfin se libérer des biens et des honneurs qui entravent notre confiance." (humour corse par la répétition, qui souligne une idée avec insistance)</li>
+<li>"Il faut donc se libérer des vices et des crimes qui entravent le bonheur des autres. Il faut enfin se libérer des passions et des intérêts qui entravent le bonheur commun." (humour corse par l'antiphrase, qui dit une chose pour en suggérer une autre)</li>
+</ul>
+
+<p>7 mots avec une faute d'orthographe : "satisfère", "mépris", "réalitée", "épanouire", "expréssion", "distinger", "répondre"</p>
+
+<p>une fois l'adjectif "abracadabrantesque" : "Il va découvrir un univers fantastique, où tout est possible et où tout est abracadabrantesque."</p>
+
+<p>Le nombre de mots de ma dissertation est de 1199.</p>
+</div></div>
+
