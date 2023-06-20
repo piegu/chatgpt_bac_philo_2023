@@ -28,7 +28,7 @@ un style d'écriture plus fluide, qui ne soit pas systématique (par exemple, ne
 </ul>
 <p>Après avoir terminé d'écrire ta dissertation, énumère les phrases de la liste précédente ainsi que les éventuelles corrections et/ou explications.</p>
 <p>Compte le nombre de mots de ta dissertation et écris le.</p>
-</div>
+</div></div>
 
 ## Réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
 
