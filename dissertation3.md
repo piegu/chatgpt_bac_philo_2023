@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Le prompt demande à ChatGPT de trouver une méthode pour écrire dans un style plus humain, de la publier et d'utiliser ensuite cette méthode pour réécrire la dissertation.
+Le prompt demande à ChatGPT de **trouver une méthode pour écrire dans un style plus humain, de la publier et d'utiliser ensuite cette méthode pour réécrire la dissertation**.
 
 ## Prompt
 
