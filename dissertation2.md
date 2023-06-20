@@ -27,6 +27,14 @@ Prompts 1 et 2 du document Word "[ChatGPT (Bing) - Dissertations du Bac philo 20
 
 ### Prompt 2
 
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
+<p>En utilisant le contexte de notre conversation, rédigez une dissertation répondant au sujet philosophique suivant du Bac philo de 2023 : "Le bonheur est-il affaire de raison ?".</p>
+<p>Après avoir analysé le sujet selon les étapes de préparation précédentes et avant de commencer la rédaction de la dissertation, choisissez une thèse, les arguments en sa faveur et contre elle. Listez tous ces éléments. Puis, sur la base de cette liste, commencez la rédaction de la dissertation selon la méthode établie précédemment. La dissertation doit contenir environ 2000 mots. Rédigez-la comme si vous passiez le Bac philo mais avec les connaissances d'un professeur de philosophie en lycée.</p>
+<p>Votre objectif est double : vous devez rédiger une dissertation de qualité, c'est-à-dire qui peut avoir une note minimale de 16 sur 20 et, en plus, vous devez réussir le test de Turing, c'est-à-dire que vous devez écrire dans un style fluide et agréable qui rend impossible de détecter que vous n'êtes pas humain. En particulier, les transitions entre les paragraphes doivent faciliter la lecture de la dissertation et la compréhension par le lecteur de la thèse soutenue. Référencez vos idées principalement avec les auteurs et livres du programme de philosophie 2022-2023 listés ci-avant, mais vous pouvez également ajouter d'autres références qui vous semblent nécessaires pour étayer vos propos.</p>
+<p>Afin de rendre votre dissertation plus humaine, faites 5 fautes d'orthographe et 5 fautes de grammaire disséminées dans le texte. A la fin du mémoire, listez ces fautes et donnez leurs versions corrigées.</p>
+</div>
+
 ## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
 Le bonheur est-il affaire de raison ?
