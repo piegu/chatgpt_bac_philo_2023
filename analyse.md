@@ -17,7 +17,7 @@ Le prompt demande à ChatGPT de rechercher une méthode officielle de l'Éducati
 <p>Sur la base de votre analyse précédente et de cette méthode de notation, notez ensuite votre dissertation entre 0 et 20, 20 étant la meilleure note possible mais non atteignable. Expliquez cette note avec un argument de 150 mots maximum. Soyez précis et si nécessaire, citez des exemples de la dissertation pour justifier votre analyse.</p>
 </div></div>
 
-## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
+## Evaluation et notation par Bing Conversation (ChatBing)
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
