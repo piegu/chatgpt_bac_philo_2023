@@ -1,8 +1,8 @@
-## Dissertation de ChatGPT (Bing) à partir  prompt 1 et 2
+## Dissertation 2 de ChatGPT (Bing) à partir  prompt 1 et 2
 
 ## Prompts
 
-Prompts 1 et 2 du document Word "ChatGPT (Bing) - Dissertations du Bac philo 2023".
+Prompts 1 et 2 du document Word "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
 
 ## ChatBing
 
