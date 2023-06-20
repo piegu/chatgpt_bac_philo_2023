@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Le prompt demande à ChatGPT de rechercher une méthode officielle de l'Éducation Nationale pour la notation des dissertations du Bac philo, d'évaluer sa dissertation par rapport à la méthode créée dans les étapes de préparation et par rapport à la méthode officielle, puis de lui attribuer une note.
+Le prompt demande à ChatGPT de **rechercher une méthode officielle de l'Éducation Nationale pour la notation des dissertations du Bac philo**, d'**évaluer sa dissertation par rapport à la méthode créée dans les étapes de préparation et par rapport à la méthode officielle**, puis de **lui attribuer une note**.
 
 ## Prompt
 
