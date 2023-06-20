@@ -57,6 +57,8 @@ Les réponses de ChatGPT se trouvent dans le document Word cité dans le paragra
 
 ## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <p><b>Le bonheur est-il affaire de raison ?</b></p>
 
 <p>Le bonheur est une aspiration universelle et légitime de l'être humain. Qui ne souhaite pas être heureux, c'est-à-dire éprouver un état de satisfaction durable et complète de ses aspirations ? Mais comment atteindre le bonheur ? Quels sont les moyens ou les conditions qui permettent d'y accéder ? Est-ce une question de chance, de volonté, de sagesse ? Le bonheur est-il affaire de raison ?</p>
@@ -153,7 +155,7 @@ Les réponses de ChatGPT se trouvent dans le document Word cité dans le paragra
 
 <p>Le troisième argument est que le bonheur est une affaire de créativité et d'innovation, qui sont des formes de raison élargie et dialogique. La créativité est la faculté d'inventer de nouvelles idées, de nouvelles solutions, de nouvelles formes. L'innovation est la faculté de mettre en œuvre ces idées, ces solutions, ces formes, en les adaptant aux besoins et aux attentes des autres. Le bonheur suppose donc d'utiliser sa raison en combinant l'originalité et l'utilité.</p>
 
-<p><p>Cette thèse peut être illustrée par plusieurs exemples :</p>
+<p>Cette thèse peut être illustrée par plusieurs exemples :</p>
 
 <p>Un exemple historique est celui des Lumières, qui ont fait du bonheur le résultat de l'usage éclairé et critique de la raison. Pour les Lumières, le bonheur consiste à sortir de l'ignorance, du fanatisme et de la tyrannie, qui sont les sources du malheur. Il faut donc utiliser sa raison pour combattre les préjugés, défendre la tolérance et promouvoir la liberté. Ils ont prôné une éducation universelle, qui vise à former l'homme critique et citoyen.</p>
 
@@ -165,8 +167,9 @@ Les réponses de ChatGPT se trouvent dans le document Word cité dans le paragra
 
 <p><b>V) Conclusion</b></p>
 
-<p><p>Nous avons examiné trois thèses possibles sur le rapport entre le bonheur et la raison : la première soutient que le bonheur n'est pas affaire de raison, mais affaire de sensibilité et de désirs ; la deuxième soutient que le bonheur est affaire de raison, mais uniquement et exclusivement ; la troisième soutient que le bonheur est affaire de raison, mais pas seulement ni exclusivement. Nous avons proposé une thèse synthétique qui dépasse ces oppositions et qui envisage le bonheur comme affaire d'une raison élargie et dialogique.</p>
+<p>Nous avons examiné trois thèses possibles sur le rapport entre le bonheur et la raison : la première soutient que le bonheur n'est pas affaire de raison, mais affaire de sensibilité et de désirs ; la deuxième soutient que le bonheur est affaire de raison, mais uniquement et exclusivement ; la troisième soutient que le bonheur est affaire de raison, mais pas seulement ni exclusivement. Nous avons proposé une thèse synthétique qui dépasse ces oppositions et qui envisage le bonheur comme affaire d'une raison élargie et dialogique.</p>
 
 <p>Nous pouvons donc répondre à la question posée par le sujet en affirmant que le bonheur est affaire de raison, mais d'une raison qui ne se limite pas à la logique formelle ou à la morale universelle, mais qui intègre aussi la sensibilité, l'imagination, l'intuition, et qui ne se replie pas sur elle-même ou sur ses principes, mais qui s'ouvre aux autres, aux différences, aux altérités. Le bonheur est affaire d'une raison qui sait concilier ses désirs et ses devoirs, ses plaisirs et ses principes, ses émotions et ses convictions.</p>
 
 <p>Nous pouvons ouvrir sur une nouvelle question en lien avec le sujet : comment éduquer à cette raison élargie et dialogique, qui favorise le bonheur individuel et collectif ?</p>
+</div></div>
