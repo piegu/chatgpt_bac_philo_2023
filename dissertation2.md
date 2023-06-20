@@ -2,11 +2,32 @@
 
 [dissertation 1](dissertation1.md) | dissertation 2 | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) 
 
+## Contexte
+
+Le premier prompt décrit qui est ChatGPT, son objectif et l'accompagne à chercher et publier des informations méthodologiques sur comment rédiger une dissertation au Bac 2023 afin qu'il puisse s'en nourrir pour rédiger lui-même une dissertation avec un second prompt.
+
 ## Prompts
 
 Prompts 1 et 2 du document Word "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
 
-## ChatBing
+### Prompt 1
+
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
+<p>Vous êtes professeur de philosophie dans un lycée en France. Vos élèves sont en terminale (dernière année du lycée), vous enseignez la philosophie selon le programme scolaire 2022-2023 de l'Éducation Nationale et vous préparez vos élèves à rédiger la dissertation du Bac philo de 2023.</p>
+<p>Suivez les étapes suivantes:</p>
+<ul><li>Listez les thématiques du programme de philosophie 2022-2023 de l'Éducation Nationale, puis recherchez la liste des livres que les élèves doivent lire et publiez-la. Ces informations sont nécessaires pour approfondir vos connaissances, et également pour pouvoir citer des auteurs (et leurs livres) comme références dans une dissertation.</li>
+<li>Renseignez-vous ensuite sur le Bac philo. Intéressez-vous à l'épreuve de dissertation en extrayant des informations sur ce qu'est une dissertation dans le cadre du Bac philo, comment la structurer en paragraphes, comment ne pas rester neutre sur un sujet mais, au contraire, comment développer un raisonnement cohérent et comment savoir présenter des arguments afin de pouvoir expliquer clairement son point de vue tout en prenant en compte des arguments en faveur d’une autre thèse.</li>
+<li>Recherchez alors un sujet de dissertation qui a été proposé aux élèves du Bac philo de 2022, puis recherchez un corrigé de ce sujet, c'est-à-dire une dissertation écrite par un professeur de philosophie dans un lycée en France et publiée en accès libre sur Internet. Donnez le sujet de dissertation et le lien vers ce corrigé.</li>
+<li>Il vous est interdit d'utiliser un sujet de bac de 2023, et encore moins un corrigé datant de 2023. Ne lisez pas les dissertations écrites par des philosophes qui ne sont pas professeurs en lycée.</li>
+<li>Une fois trouvé un corrigé de dissertation d’un sujet du Bac philo de 2022, étudiez-le en listant les points suivants: nombre de paragraphes, thèse principale de chaque paragraphe, comment les arguments en faveur d'une thèse sont présentés, comment se fait l'enchaînement entre les paragraphes, comment les références à des auteurs et à des textes sont citées, et analysez en particulier le premier et dernier paragraphe.</li>
+<li>A partir de cette étude, déduisez-en une méthode de rédaction d'une dissertation de Bac philo afin de pouvoir l'utiliser avec un autre sujet philosophique. Votre méthode doit permettre d'analyser un sujet de dissertation au Bac philo, de choisir une thèse, de choisir des arguments et des références en sa faveur mais aussi contre elle, puis de conclure en faveur de la thèse retenue. Enfin, la méthode doit permettre de rédiger une dissertation selon les règles en vigueur pour une telle dissertation (Bac philo) et selon un style propre à une lecture fluide et agréable.</li>
+</ul>
+</div>
+
+### Prompt 2
+
+## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
 Le bonheur est-il affaire de raison ?
 
