@@ -1,6 +1,6 @@
 ## Dissertation 2 de ChatGPT (Bing) à partir des prompts 1 et 2 (évaluation et notation avec les prompts 3 et 4)
 
-[dissertation 1](dissertation1.md) | dissertation 2 | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) 
+[dissertation 1](dissertation1.md) | dissertation 2 | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) | [Evaluation & notation](analyse.md)
 
 ## Contexte
 
