@@ -1,4 +1,4 @@
-## Dissertation 2 de ChatGPT (Bing) à partir  prompt 1 et 2
+## Dissertation 2 de ChatGPT (Bing) à partir des prompts 1 et 2
 
 ## Prompts
 
