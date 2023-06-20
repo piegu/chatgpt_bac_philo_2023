@@ -6,6 +6,8 @@
 
 Le prompt demande à ChatGPT de **rechercher une méthode officielle de l'Éducation Nationale pour la notation des dissertations du Bac philo**, d'**évaluer sa dissertation par rapport à la méthode créée dans les étapes de préparation et par rapport à la méthode officielle**, puis de **lui attribuer une note**.
 
+Ce prompt a été utilisé à propos de la [dissertation 4](dissertation4.md).
+
 ## Prompt
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
