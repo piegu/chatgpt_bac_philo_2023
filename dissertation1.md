@@ -15,6 +15,8 @@ Dissertation répondant à un prompt d'une phrase utilisé par l'écrivaine Éli
 
 ## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 Voici ma tentative de copie de bac sur le sujet ‘le bonheur est-il affaire de raison’, mais avec humour et dans le style de Raphaël Enthoven:
 
 Le bonheur est-il affaire de raison ?
@@ -34,3 +36,4 @@ Mais on pourrait aussi penser que non. On pourrait penser que la raison est l'en
 Alors, le bonheur est-il affaire de raison ? La réponse n'est pas simple. Elle dépend sans doute du sens que l'on donne au bonheur et à la raison. Elle dépend aussi du dosage que l'on fait entre les deux. Peut-être faut-il trouver un équilibre entre la raison et l'irrationnel. Peut-être faut-il écouter sa raison sans oublier son cœur. Peut-être faut-il être raisonnable sans être rationnel.
 
 Le bonheur est-il affaire de raison ? Je vous laisse méditer sur cette question en vous souhaitant un bon bac et un bel été.
+</div></div>
