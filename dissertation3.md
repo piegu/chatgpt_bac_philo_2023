@@ -22,6 +22,8 @@ La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe 
 
 ## Dissertation de ChatGPT de Bing Conversation (ChatBing)
 
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <p><b>Le bonheur est-il affaire de raison ?</b></p>
 
 <p>Le bonheur est une notion qui nous concerne tous. Nous aspirons tous à être heureux, c'est-à-dire à éprouver un état durable et complet de satisfaction. Mais qu'est-ce qui nous rend heureux ? Quelles sont les conditions du bonheur ? Est-ce une affaire de sensibilité, c'est-à-dire de sentiments et d'émotions ? Ou est-ce une affaire de raison, c'est-à-dire de pensée et de jugement ? Peut-on être heureux sans raison ? Peut-on être heureux par la seule raison ? Peut-on concilier raison et sensibilité dans la recherche du bonheur ?</p>
@@ -138,4 +140,4 @@ La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe 
 <p>Nous pouvons donc répondre à la question posée en affirmant que le bonheur est bien affaire de raison, mais d'une raison élargie et dialogique. Cela signifie que pour être heureux, il ne suffit pas de suivre sa raison ou sa sensibilité, mais il faut les articuler et les harmoniser. Cela signifie aussi que pour être heureux, il ne suffit pas de suivre sa raison ou celle des autres, mais il faut les confronter et les enrichir.</p>
 
 <p>Nous pouvons donc conclure en proposant une nouvelle question, qui prolonge notre réflexion : comment développer et exercer une raison élargie et dialogique ? Quelles sont les conditions et les moyens pour y parvenir ? Quels sont les obstacles et les risques à éviter ? Quels sont les bénéfices et les enjeux pour soi et pour la société ?</p>
-
+</div></div>
