@@ -8,7 +8,7 @@ Le premier prompt décrit qui est ChatGPT, son objectif et l'accompagne à **che
 
 ## Prompts
 
-Prompts 1 et 2 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
+Prompts 1, 2, 3 et 4 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
 
 ### Prompt 1
 
