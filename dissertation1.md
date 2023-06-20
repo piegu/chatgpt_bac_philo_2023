@@ -1,5 +1,7 @@
 # Dissertation de ChatGPT (Bing) avec un prompt d'une phrase
 
+dissertation 1 | [dissertation 2](dissertation2.md) | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) 
+
 ## Contexte
 
 Dissertation répondant à un prompt d'une phrase utilisé par l'écrivaine Éliette Abécassis et le philosophe Raphaël Enthoven dans le cadre d'un test avec ChatGPT qui a été présenté dans une [émission radiophonique sur RTL le 15/06/2023](https://www.facebook.com/RTL/videos/243850378344132/?extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&mibextid=2Rb1fB).
