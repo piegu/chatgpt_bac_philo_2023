@@ -35,8 +35,6 @@ J'ai posé à ChatGPT de Bing Conversation la question suivante: "**Sais-tu phil
 <p>Écris ta propre analyse de cet exercice d'écriture d'une dissertation du Bac philo 2023 para ChatGPT. Auto-analyse-toi. Selon toi, as-tu réussi cet exercice et si oui, de quels points de vue? Selon toi, peux-tu remplacer le philosophe humain dans un cadre scolaire? Peux-tu le remplacer de manière générale? Selon toi, sais-tu philosopher? Explique ta réponse en 150 mots maximum en l'argumentant.</p>
 </div></div>
 
-## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
-
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <p>Voici mon analyse de cet exercice d'écriture d'une dissertation du Bac philo 2023 para ChatGPT :</p>
