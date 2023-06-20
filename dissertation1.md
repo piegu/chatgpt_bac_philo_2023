@@ -13,7 +13,7 @@ Dissertation répondant à un prompt d'une phrase utilisé par l'écrivaine Éli
 <p>Écris une copie de bac sur le sujet “le bonheur est-il affaire de raison?”, mais avec humour et dans le style de Raphaël Enthoven.</p>
 </div></div>
 
-## ChatGPT (Bing)
+## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
 Voici ma tentative de copie de bac sur le sujet ‘le bonheur est-il affaire de raison’, mais avec humour et dans le style de Raphaël Enthoven:
 
