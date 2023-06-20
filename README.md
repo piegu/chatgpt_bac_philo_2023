@@ -8,6 +8,11 @@ Légende de l'image: **un élève au Bac philo 2023** (image créée par Runway
 
 - [Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), Consultant en IA & Senior AI Specialist (Claimfy)
 - 21 juin 2023
+- Liens du projet:
+  - [Site]() avec toutes les dissertations du Bac philo 2023 écrites par ChatGPT (ChatBing) dans le cadre de ce post.
+  - Tous les prompts utilisés et les réponses de ChatGPT dans un document Word: [ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx).
+  - Dissertation finale ([Dissertation 4](dissertation4.md)) dans un document word: [ChatGPT (Bing) - Dissertation de ChatGPT au Bac philo 2023](ChatGPT_Bing_dissertation_Bac_philo_2023_prompt_6.docx).
+  - [Playlist YouTube "ChatGPT & Bac philo 2023"](https://www.youtube.com/watch?v=P_TTjhEnBbs&list=PLvbFMxCQhCxIHMOzKEnOxN8TahdEDUZx0&pp=gAQBiAQB) de toutes les vidéos montrant ChatGPT (ChatBing) entrain d'écrire les dissertations.
 
 ## A propos
 
