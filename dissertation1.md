@@ -1,5 +1,9 @@
 # Dissertation de ChatGPT (Bing) avec un prompt d'une phrase
 
+## Contexte
+
+Dissertation répondant à un prompt d'une phrase utilisé par l'écrivaine Éliette Abécassis et le philosophe Raphaël Enthoven dans le cadre d'un test avec ChatGPT qui a été présenté dans une [émission radiophonique sur RTL le 15/06/2023](https://www.facebook.com/RTL/videos/243850378344132/?extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&mibextid=2Rb1fB).
+
 ## Prompt
 
 Écris une copie de bac sur le sujet “le bonheur est-il affaire de raison?”, mais avec humour et dans le style de Raphaël Enthoven.
