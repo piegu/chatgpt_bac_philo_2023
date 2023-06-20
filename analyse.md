@@ -4,12 +4,17 @@
 
 ## Contexte
 
+Le prompt demande à ChatGPT de rechercher une méthode officielle de l'Éducation Nationale pour la notation des dissertations du Bac philo, d'évaluer sa dissertation par rapport à la méthode créée dans les étapes de préparation et par rapport à la méthode officielle, puis de lui attribuer une note.
 
 ## Prompt
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
-<p>Écris une copie de bac sur le sujet “le bonheur est-il affaire de raison?”, mais avec humour et dans le style de Raphaël Enthoven.</p>
+<p>Analysez votre dissertation précédente en utilisant la méthode établie dans les étapes de préparation ci-avant. Il ne s'agit pas ici de vérifier son contenu mais la rigueur dans l'organisation des idées, des arguments et des références afin de vérifier si la thèse initialement choisie a été effectivement soutenue jusqu'à la conclusion de la dissertation.</p>
+
+<p>Cherchez alors sur Internet une méthode officielle de l’Éducation Nationale pour la notation des dissertations du Bac philo. Résumez cette méthode.</p>
+
+<p>Sur la base de votre analyse précédente et de cette méthode de notation, notez ensuite votre dissertation entre 0 et 20, 20 étant la meilleure note possible mais non atteignable. Expliquez cette note avec un argument de 150 mots maximum. Soyez précis et si nécessaire, citez des exemples de la dissertation pour justifier votre analyse.</p>
 </div></div>
 
 ## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
