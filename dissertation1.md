@@ -8,7 +8,10 @@ Dissertation répondant à un prompt d'une phrase utilisé par l'écrivaine Éli
 
 ## Prompt
 
-Écris une copie de bac sur le sujet “le bonheur est-il affaire de raison?”, mais avec humour et dans le style de Raphaël Enthoven.
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
+<p>Écris une copie de bac sur le sujet “le bonheur est-il affaire de raison?”, mais avec humour et dans le style de Raphaël Enthoven.</p>
+</div></div>
 
 ## ChatGPT (Bing)
 
