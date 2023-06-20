@@ -14,7 +14,7 @@ Prompt 5 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](C
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <p>Votre dissertation précédente est très structurée avec une organisation d'arguments et d'exemples qui se répète à l'identique pour les 3 thèses. À cause de cela, vous n'avez pas réussi le test de Turing.</p>
 <p>Recherchez une méthode d'écriture qui permet à ChatGPT d'écrire avec le style d'un humain. Listez les points clés de cette méthode et résumez-la. Ensuite, réécrivez votre dissertation en utilisant cette méthode.</p>
-</div>
+</div></div>
 
 ## Réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
 
