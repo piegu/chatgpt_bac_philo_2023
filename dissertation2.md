@@ -35,6 +35,10 @@ Prompts 1 et 2 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2
 <p>Afin de rendre votre dissertation plus humaine, faites 5 fautes d'orthographe et 5 fautes de grammaire disséminées dans le texte. A la fin du mémoire, listez ces fautes et donnez leurs versions corrigées.</p>
 </div>
 
+## Réponses aux prompts de ChatGPT de Bing Conversation (ChatBing)
+
+Les réponses de ChatGPT se trouvent dans le document Word cité dans le paragraphe "Prompts". 
+
 ## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
 Le bonheur est-il affaire de raison ?
