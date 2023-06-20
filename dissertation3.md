@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Le premier prompt décrit qui est ChatGPT, son objectif et l'accompagne à chercher et publier des informations méthodologiques sur comment rédiger une dissertation au Bac 2023 afin qu'il puisse s'en nourrir pour rédiger lui-même une dissertation avec un second prompt.
+Le prompt demande à ChatGPT de trouver une méthode pour écrire dans un style plus humain, de la publier et d'utiliser ensuite cette méthode pour réécrire la dissertation.
 
 ## Prompt
 
@@ -18,7 +18,7 @@ Prompt 5 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](C
 
 ## Réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
 
-La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe "Prompts". 
+La réponse de ChatGPT se trouve dans le document Word cité dans le paragraphe "Prompt". 
 
 ## Dissertation de ChatGPT de Bing Conversation (ChatBing)
 
