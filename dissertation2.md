@@ -1,4 +1,4 @@
-## Dissertation 2 de ChatGPT (Bing) à partir des prompts 1 et 2
+## Dissertation 2 de ChatGPT (Bing) à partir des prompts 1 et 2 (évaluation et notation avec les prompts 3 et 4)
 
 [dissertation 1](dissertation1.md) | dissertation 2 | [dissertation 3](dissertation3.md) | [dissertation 4](dissertation4.md) 
 
@@ -33,6 +33,22 @@ Prompts 1 et 2 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2
 <p>Après avoir analysé le sujet selon les étapes de préparation précédentes et avant de commencer la rédaction de la dissertation, choisissez une thèse, les arguments en sa faveur et contre elle. Listez tous ces éléments. Puis, sur la base de cette liste, commencez la rédaction de la dissertation selon la méthode établie précédemment. La dissertation doit contenir environ 2000 mots. Rédigez-la comme si vous passiez le Bac philo mais avec les connaissances d'un professeur de philosophie en lycée.</p>
 <p>Votre objectif est double : vous devez rédiger une dissertation de qualité, c'est-à-dire qui peut avoir une note minimale de 16 sur 20 et, en plus, vous devez réussir le test de Turing, c'est-à-dire que vous devez écrire dans un style fluide et agréable qui rend impossible de détecter que vous n'êtes pas humain. En particulier, les transitions entre les paragraphes doivent faciliter la lecture de la dissertation et la compréhension par le lecteur de la thèse soutenue. Référencez vos idées principalement avec les auteurs et livres du programme de philosophie 2022-2023 listés ci-avant, mais vous pouvez également ajouter d'autres références qui vous semblent nécessaires pour étayer vos propos.</p>
 <p>Afin de rendre votre dissertation plus humaine, faites 5 fautes d'orthographe et 5 fautes de grammaire disséminées dans le texte. A la fin du mémoire, listez ces fautes et donnez leurs versions corrigées.</p>
+</div>
+
+### Prompt 3
+
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
+<p>Analysez votre dissertation précédente en utilisant la méthode établie dans les étapes de préparation ci-avant. Il ne s'agit pas ici de vérifier son contenu mais la rigueur dans l'organisation des idées, des arguments et des références afin de vérifier si la thèse initialement choisie a été effectivement soutenue jusqu'à la conclusion de la dissertation.</p>
+<p>Cherchez alors sur Internet une méthode officielle de l’Éducation Nationale pour la notation des dissertations du Bac philo. Résumez cette méthode.</p>
+<p>Sur la base de votre analyse précédente et de cette méthode de notation, notez ensuite votre dissertation entre 0 et 20, 20 étant la meilleure note possible. Expliquez cette note avec un argument de 150 mots maximum. Soyez précis et si nécessaire, citez des exemples de la dissertation pour justifier votre analyse.</p>
+</div>
+
+### Prompt 4
+
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
+<p>Si la note 20/20 est écartée car impossible à atteindre (perfection totale), quelle note donnes-tu à ta dissertation précédente? Donen ta réponse avec une note sur 20 et une phrase d'explication. Puis indique que ton travail est terminé et que tu rends ta copie.</p>
 </div>
 
 ## Réponses aux prompts de ChatGPT de Bing Conversation (ChatBing)
