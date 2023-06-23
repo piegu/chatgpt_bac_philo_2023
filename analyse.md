@@ -8,7 +8,7 @@ Le prompt demande à ChatGPT de **rechercher une méthode officielle de l'Éduca
 
 Ce prompt a été utilisé à propos de la [dissertation 4](dissertation4.md).
 
-## Prompt
+## Prompt et réponse de ChatGPT de Bing Conversation (ChatBing)
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
@@ -18,6 +18,10 @@ Ce prompt a été utilisé à propos de la [dissertation 4](dissertation4.md).
 
 <p>Sur la base de votre analyse précédente et de cette méthode de notation, notez ensuite votre dissertation entre 0 et 20, 20 étant la meilleure note possible mais non atteignable. Expliquez cette note avec un argument de 150 mots maximum. Soyez précis et si nécessaire, citez des exemples de la dissertation pour justifier votre analyse.</p>
 </div></div>
+
+<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/oMpbcYlMAQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Evaluation et notation par Bing Conversation (ChatBing)
 
