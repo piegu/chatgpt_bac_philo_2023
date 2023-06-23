@@ -6,9 +6,11 @@
 
 L'objectif de ce prompt est de **pouvoir multiplier à présent le nombre de dissertations** en utilisant la méthode définie par ChatGPT via les prompts précédents. Pour cela, il suffit de dire à ChatGPT d'utiliser cette méthode et on peut **personnaliser la dissertation** par exemple en imposant la thèse de la dissertation en réponse à la question du sujet, en réduisant le nombre de mots, en changeant son style et en demandant à ChatGPT de faire des erreurs aléatoires... afin de rendre la copie plus humaine (gloups).
 
-## Prompt
+## Prompt et réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
 
 Prompt 6 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
+
+La réponse de ChatGPT se trouve également dans le document Word: [ChatGPT (Bing) - Dissertation de ChatGPT au Bac philo 2023](ChatGPT_Bing_dissertation_Bac_philo_2023_prompt_6.docx).
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
@@ -30,9 +32,9 @@ un style d'écriture plus fluide, qui ne soit pas systématique (par exemple, ne
 <p>Compte le nombre de mots de ta dissertation et écris le.</p>
 </div></div>
 
-## Réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
-
-La réponse de ChatGPT se trouve dans le document Word: [ChatGPT (Bing) - Dissertation de ChatGPT au Bac philo 2023](ChatGPT_Bing_dissertation_Bac_philo_2023_prompt_6.docx) et ci-dessous.
+<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/HMC2iS4agfQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Dissertation de ChatGPT de Bing Conversation (ChatBing)
 
