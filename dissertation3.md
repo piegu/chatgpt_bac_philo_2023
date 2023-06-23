@@ -6,7 +6,7 @@
 
 Le prompt demande à ChatGPT de **trouver une méthode pour écrire dans un style plus humain, de la publier et d'utiliser ensuite cette méthode pour réécrire la dissertation**.
 
-## Prompt et réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
+## Prompt et réponse de ChatGPT de Bing Conversation (ChatBing)
 
 Prompt 5 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
 
