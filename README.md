@@ -50,3 +50,9 @@ J'ai posé à ChatGPT de Bing Conversation la question suivante: "**Sais-tu phil
 </ul>
 
 <p>Le nombre de mots de mon analyse est de 149.</p>
+
+La vidéo de la réponse de ChatGPT de Bing Conversation:
+
+<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/OX29AAKz9Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
