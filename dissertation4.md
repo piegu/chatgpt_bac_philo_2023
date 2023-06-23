@@ -6,7 +6,7 @@
 
 L'objectif de ce prompt est de **pouvoir multiplier à présent le nombre de dissertations** en utilisant la méthode définie par ChatGPT via les prompts précédents. Pour cela, il suffit de dire à ChatGPT d'utiliser cette méthode et on peut **personnaliser la dissertation** par exemple en imposant la thèse de la dissertation en réponse à la question du sujet, en réduisant le nombre de mots, en changeant son style et en demandant à ChatGPT de faire des erreurs aléatoires... afin de rendre la copie plus humaine (gloups).
 
-## Prompt et réponse au prompt de ChatGPT de Bing Conversation (ChatBing)
+## Prompt et réponse de ChatGPT de Bing Conversation (ChatBing)
 
 Prompt 6 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
 
