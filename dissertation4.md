@@ -33,7 +33,7 @@ un style d'écriture plus fluide, qui ne soit pas systématique (par exemple, ne
 </div></div>
 
 <div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/HMC2iS4agfQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/HMC2iS4agfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Dissertation de ChatGPT de Bing Conversation (ChatBing)
