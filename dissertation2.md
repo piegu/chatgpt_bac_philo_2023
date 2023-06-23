@@ -6,9 +6,9 @@
 
 Le premier prompt décrit qui est ChatGPT, son objectif et l'accompagne à **chercher et publier des informations méthodologiques sur comment rédiger une dissertation au Bac 2023 afin qu'il puisse s'en nourrir pour rédiger lui-même une dissertation** avec un second prompt. Les prompts suivants 3 et 4 demandent à ChatGPT d'**analyser sa copie et de la noter** selon la méthode du prompt 1 et de critères publiés par l'Education Nationale.
 
-## Prompts
+## Prompts et réponses de ChatGPT de Bing Conversation (ChatBing)
 
-Prompts 1, 2, 3 et 4 du document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
+Les réponses de ChatGPT se trouvent également dans le document Word cité dans le document Word: "[ChatGPT (Bing) - Dissertations du Bac philo 2023](ChatGPT_Bing_dissertations_Bac_philo_2023.docx)".
 
 ### Prompt 1
 
@@ -54,10 +54,6 @@ Prompts 1, 2, 3 et 4 du document Word: "[ChatGPT (Bing) - Dissertations du Bac p
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <p>Si la note 20/20 est écartée car impossible à atteindre (perfection totale), quelle note donnes-tu à ta dissertation précédente? Donen ta réponse avec une note sur 20 et une phrase d'explication. Puis indique que ton travail est terminé et que tu rends ta copie.</p>
 </div></div>
-
-## Réponses aux prompts de ChatGPT de Bing Conversation (ChatBing)
-
-Les réponses de ChatGPT se trouvent dans le document Word cité dans le paragraphe "Prompts". 
 
 ## Dissertation écrite par ChatGPT de Bing Conversation (ChatBing)
 
