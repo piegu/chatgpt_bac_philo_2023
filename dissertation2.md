@@ -25,7 +25,7 @@ Les réponses de ChatGPT se trouvent également dans le document Word cité dans
 </ul>
 </div></div>
 
-<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0;">
+<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/P_TTjhEnBbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
@@ -39,6 +39,10 @@ Les réponses de ChatGPT se trouvent également dans le document Word cité dans
 <p>Afin de rendre votre dissertation plus humaine, faites 5 fautes d'orthographe et 5 fautes de grammaire disséminées dans le texte. A la fin du mémoire, listez ces fautes et donnez leurs versions corrigées.</p>
 </div></div>
 
+<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/FUXrqNHz-LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ### Prompt 3
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
@@ -47,6 +51,10 @@ Les réponses de ChatGPT se trouvent également dans le document Word cité dans
 <p>Cherchez alors sur Internet une méthode officielle de l’Éducation Nationale pour la notation des dissertations du Bac philo. Résumez cette méthode.</p>
 <p>Sur la base de votre analyse précédente et de cette méthode de notation, notez ensuite votre dissertation entre 0 et 20, 20 étant la meilleure note possible. Expliquez cette note avec un argument de 150 mots maximum. Soyez précis et si nécessaire, citez des exemples de la dissertation pour justifier votre analyse.</p>
 </div></div>
+
+<div style="float:left; width: 100%; position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 20px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/O5rZmrqV2-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Prompt 4
 
